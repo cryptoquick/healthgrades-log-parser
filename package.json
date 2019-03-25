@@ -1,0 +1,13 @@
+{
+  "name": "healthgrades-hunter-node",
+  "version": "1.0.0",
+  "description": "Final coding exercise - Node.js",
+  "main": "index.js",
+  "author": "Hunter Trujillo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "got": "^9.6.0",
+    "highland": "^2.13.3"
+  }
+}
